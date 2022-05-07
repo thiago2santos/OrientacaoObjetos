@@ -4,7 +4,9 @@ public class Furacao {
     private Byte qtdeFuros;
     private Float distanciaEntreFuros;
 
-    public Furacao() {
+    public Furacao(Byte qtdeFuros, Float distanciaEntreFuros) {
+        this.qtdeFuros = qtdeFuros;
+        this.distanciaEntreFuros = distanciaEntreFuros;
     }
 
     public Byte getQtdeFuros() {
