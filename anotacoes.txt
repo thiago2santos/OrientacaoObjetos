@@ -1,0 +1,4 @@
+Pressao interna dos pneus (Calibragem)
+Na maior parte das vezes, as montadoras usam siglas, como Psi, bar e kPA, para definir a calibragem de pneus. O Psi (libra-força por polegada quadrada) é uma unidade de medida mais antiga, baseada no Sistema Imperial Inglês.
+Aos poucos, é substituída pelo Pa (pascal), usado no Sistema Internacional de Unidades. A união de 100.000 Pascais equivale ao bar e você pode encontrar mais de uma unidade de medida sendo representada no pneu.
+
